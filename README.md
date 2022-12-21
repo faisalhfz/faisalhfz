@@ -2,15 +2,51 @@
 
 Currently learning back-end development
 
-### REST API Projects:
+Languages:
+- Node.js
+- Go
 
-#### [Notes API](https://github.com/faisalhfz/notes-app-back-end)
+Frameworks:
+- Hapi
+- Echo
+- GORM
 
-#### [Open Music API](https://github.com/faisalhfz/open-music-api)
+Databases:
+- PostgreSQL
 
-A playlist management app
+## REST API Projects:
 
-#### [Ecommerce API]()
+### [Notes API](https://github.com/faisalhfz/notes-app-back-end)
+
+Note management app
+
+- Langugage: Node.js
+
+- Framework: Hapi
+
+- Database: PostgreSQL
+
+### [Open Music API](https://github.com/faisalhfz/open-music-api)
+
+Playlist management app
+
+- Langugage: Node.js
+
+- Framework: Hapi
+
+- Database: PostgreSQL
+
+### [Ecommerce API]()
+
+Digital marketplace app
+
+- Langugage: Go
+
+- Framework: 
+  - Echo
+  - GORM
+
+- Database: PostgreSQL
 
 <!--
 **faisalhfz/faisalhfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
