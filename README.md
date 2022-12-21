@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋👋👋
+
+## About Me
+
+Currently learning back-end development
+
+### My Projects:
+
+- [Notes API](https://github.com/faisalhfz/notes-app-back-end)
+- [Open Music API](https://github.com/faisalhfz/open-music-api)
+- [Ecommerce API]()
 
 <!--
 **faisalhfz/faisalhfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
