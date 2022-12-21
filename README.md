@@ -2,18 +2,6 @@
 
 Currently learning back-end development
 
-Languages:
-- Node.js
-- Go
-
-Frameworks:
-- Hapi
-- Echo
-- GORM
-
-Databases:
-- PostgreSQL
-
 ## REST API Projects:
 
 ### [Notes API](https://github.com/faisalhfz/notes-app-back-end)
