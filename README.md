@@ -2,7 +2,7 @@
 
 A mechanical engineering graduate seeking for a career in software.
 Currently learning backend development. 
-The list below are my backend projects so far. 
+Check out my backend projects so far on the following list. 
 
 ### REST API Projects:
 
