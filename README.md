@@ -1,6 +1,8 @@
 ### About Me
 
-Currently learning back-end development
+A mechanical engineering graduate seeking for a career in software.
+Currently learning backend development. 
+The list below are my backend projects so far. 
 
 ### REST API Projects:
 
