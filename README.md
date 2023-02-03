@@ -30,6 +30,7 @@ The following list are my backend projects so far.
     * Echo framework
     * GORM
     * PostgreSQL
+    * Dockerized
 
 <!--
 **faisalhfz/faisalhfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
